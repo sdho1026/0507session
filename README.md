@@ -1,5 +1,5 @@
 # 0507session
 
-!(images/0506.png)
-!(images/05061.png)
-!(images/05062.png)
+!(./0506.png)
+!(./05061.png)
+!(./05062.png)
